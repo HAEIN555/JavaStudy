@@ -1,0 +1,21 @@
+package HomeWork;
+import java.util.*;
+public class D002 {
+// 수를 입력받아서 구구단 갯수를 나타내보장
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc= new Scanner(System.in);
+		System.out.println("숫자를 입력하세요");
+		int n= sc.nextInt();
+		int a,b,c;
+		for(a=1;a<=9;a++) {
+		  for(b=1;b<=9;b++) {
+			for(c=n*(a-1)+2;c<=n*a+1;c++) {
+				if(c>=10) {break;}
+				System.out.printf("%dX%d=%d\t",c,b,(c*b));}
+			System.out.println();
+		}
+	}
+	}
+
+}

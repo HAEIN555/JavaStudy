@@ -1,0 +1,22 @@
+package com.inter2;
+
+public class InterfaceExam implements Inter3 {
+
+	@Override
+	public int getA() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int getData() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,35 @@
+package study;
+
+public class ForTest01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int i = 0;
+		int sum = 0 ;
+		int even = 0, odd =0;
+		
+		System.out.println("for¹®ÀÏ °æ¿ì");
+		
+		
+		for(i=1;i<=10;i++) 
+		{
+		if (i%2==0) { // Â¦¼öÀÏ¶§
+		//if(i%2!=0){// È¦¼öÀÏ¶§
+			even = even + i ;
+		//System.out.println(i+","+even);
+		}else {
+			odd = odd + i ;
+		//System.out.println(i+","+odd);
+	
+		//	continue ;}
+		}
+		
+	}
+	System.out.println("Â¦¼öÀÇ ÇÕ°è : "+even);
+	System.out.println("È¦¼öÀÇ ÇÕ°è : "+odd);
+	sum = even + odd ;
+	System.out.println("ÃÑÇÕ°è : "+sum);
+
+	}
+}

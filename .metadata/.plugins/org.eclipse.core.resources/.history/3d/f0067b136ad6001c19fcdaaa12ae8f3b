@@ -1,0 +1,22 @@
+package study;
+
+import java.io.*;
+
+public class MethodEX06 {
+	
+	public 
+
+	BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
+		getInt(String str){
+			
+		}
+	
+	
+	public static void main(String[] args)throws IOException {
+		MethodEX06 me =new MethodEX06();
+		//int kor = 30; 메소드로 처리하겠다 
+		int kor = ();
+		System.out.println("당신의 국어 점수는"+kor+"입니다");
+	}
+
+}

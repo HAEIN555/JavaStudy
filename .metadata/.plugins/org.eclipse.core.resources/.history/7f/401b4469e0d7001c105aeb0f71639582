@@ -1,0 +1,15 @@
+package study;
+
+public class Circle02 {
+	// 기본 생성자 활용
+	
+	int radius;
+	
+	void set(int r) {
+		radius = r;
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

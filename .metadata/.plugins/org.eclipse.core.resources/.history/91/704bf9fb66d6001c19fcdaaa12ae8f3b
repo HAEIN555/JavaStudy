@@ -1,0 +1,9 @@
+package study;
+
+public class MethodEX06 {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

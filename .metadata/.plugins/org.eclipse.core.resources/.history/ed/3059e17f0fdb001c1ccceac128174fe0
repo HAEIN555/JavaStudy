@@ -1,0 +1,10 @@
+package study2;
+
+public class HospitalMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

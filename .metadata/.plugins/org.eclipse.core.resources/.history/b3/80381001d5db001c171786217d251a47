@@ -1,0 +1,17 @@
+package study;
+
+public class RoadBike extends AbstractBicycle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	// 재정의 하는 것 구현이 안되서  
+	@Override
+	void prtInfo() {
+		System.out.println("ID :"+id);
+		System.out.println("Brand :"+brand);
+	}
+
+}

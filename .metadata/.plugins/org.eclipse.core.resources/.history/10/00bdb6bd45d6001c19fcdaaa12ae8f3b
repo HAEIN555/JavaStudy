@@ -1,0 +1,22 @@
+package study;
+
+public class MethodEX02_01 {
+	public static void X() { // 전역변수를 지정...? 
+		for(int a=0;a<5;a++) {
+			System.out.print("*");
+		}//void는 return이 생략// 결과형 return 값이 void일 경우 return문은 생략 가능하다. 
+		return;
+	}
+	
+	public static void main(String[] args) {
+		// *을 찍기 위해서 메소드 호출을 한다. 
+		X();// 결과 값이 없기 때문에 구냥 메소드를 불러오는 호출하면 된다
+		System.out.println("\nHello");
+		X();
+		System.out.println("\nJAVA");
+		X();
+		System.out.println("\n!!!!!");
+		X();
+		
+}	
+}
