@@ -23,4 +23,13 @@
     <fullyQualifiedTypeName name="study2.Animal"/>
     <fullyQualifiedTypeName name="study3.SuperExam"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="study.AbstractBicycle"/>
+    <fullyQualifiedTypeName name="study.Diagram"/>
+    <fullyQualifiedTypeName name="study.Triangle"/>
+    <fullyQualifiedTypeName name="study2.AbsEX01"/>
+    <fullyQualifiedTypeName name="com.sta.Unit"/>
+    <fullyQualifiedTypeName name="com.sta.Marine"/>
+    <fullyQualifiedTypeName name="com.inter.InterEX"/>
+    <fullyQualifiedTypeName name="HW.Instument"/>
+    <fullyQualifiedTypeName name="study2.OuterEX.InnerEX"/>
 </qualifiedTypeNameHistroy>

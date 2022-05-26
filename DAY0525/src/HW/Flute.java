@@ -1,28 +1,23 @@
 package HW;
 
-public class Flute extends Instument{
+public class Flute extends Instrument{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Flute F = new Flute();
+		F.play();
+		F.volumeUp();
+		F.volumeDown();
 	}
-
-	@Override
+	@Override // 오버라이딩 되었다고 알려주는
 	public void play() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("flute :play() 호출됨");
 	}
-
-	@Override
+	@Override // 오버라이딩 된 메소드 
 	public void volumeUp() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("flute :VolumeUp() 호출됨");
 	}
-
 	@Override
 	public void volumeDown() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("flute :VolumeDown() 호출됨");
 	}
-
 }

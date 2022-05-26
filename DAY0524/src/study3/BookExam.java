@@ -4,29 +4,22 @@ class Book{
 	static int count;
 	String title;
 	int score;
-	
 	public String getTitle() {
-		return title;
-	}
+		return title;}
 	public void setTitle(String title) {
-		this.title = title;
-	}
+		this.title = title;}
 	public int getScore() {
-		return score;
-	}
+		return score;}
 	public void setScore(int score) {
-		this.score = score;
-	}
+		this.score = score;}
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "Book[title="+title+",score="+score+"]";
-	}
+		return "Book[title="+title+",score="+score+"]";}
 	public Book(String title ,int score) {
 		this.title = title;
 		this.score=score;
-		count++;
-	}
+		count++;}
 	
 }
 

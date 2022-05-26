@@ -34,7 +34,6 @@ public class CircleEX extends PointEX {
 	private int r;
 	
 	public CircleEX() {
-		
 	}
 	public CircleEX(int x) {
 		super(x);
@@ -48,8 +47,6 @@ public class CircleEX extends PointEX {
 		super(x,y); //오버로딩
 		this.r=r;
 	}
-	
-	
 	public int getR() {
 		return r;
 	}

@@ -15,9 +15,6 @@ public class Ecar {
 
 	private int batteryPercentage =100;
 	private int distance =0;//변경되면 안되니까 private으로 한다 고정값으로 하려고 
-	
-	
-	
 	public static Ecar getInstance() {
 		// 객체 반환
 		return new Ecar();// car를 return 해도 됨 

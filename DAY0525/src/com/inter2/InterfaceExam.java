@@ -4,13 +4,11 @@ public class InterfaceExam implements Inter3 {
 	@Override
 	public int getA() {
 		// TODO Auto-generated method stub
-		return a;
-	}
+		return a;	}
 	@Override
 	public int getData() {
 		// TODO Auto-generated method stub
-		return a+10;
-	}
+		return a+10;}
 	public static void main(String[] args) {
 		InterfaceExam it = new InterfaceExam();
 		//interface 의 다형성
