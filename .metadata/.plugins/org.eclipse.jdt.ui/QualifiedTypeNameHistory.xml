@@ -32,4 +32,5 @@
     <fullyQualifiedTypeName name="com.inter.InterEX"/>
     <fullyQualifiedTypeName name="HW.Instument"/>
     <fullyQualifiedTypeName name="study2.OuterEX.InnerEX"/>
+    <fullyQualifiedTypeName name="study2.MemberInner.Inner"/>
 </qualifiedTypeNameHistroy>
