@@ -33,4 +33,10 @@
     <fullyQualifiedTypeName name="HW.Instument"/>
     <fullyQualifiedTypeName name="study2.OuterEX.InnerEX"/>
     <fullyQualifiedTypeName name="study2.MemberInner.Inner"/>
+    <fullyQualifiedTypeName name="study.StaticInner"/>
+    <fullyQualifiedTypeName name="study.StaticInner.Inner"/>
+    <fullyQualifiedTypeName name="study.OuterEx01"/>
+    <fullyQualifiedTypeName name="study.OuterEx01.InnerEx01"/>
+    <fullyQualifiedTypeName name="javax.swing.RootPaneContainer"/>
+    <fullyQualifiedTypeName name="study2.MemberVo"/>
 </qualifiedTypeNameHistroy>
