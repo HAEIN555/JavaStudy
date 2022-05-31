@@ -39,4 +39,7 @@
     <fullyQualifiedTypeName name="study.OuterEx01.InnerEx01"/>
     <fullyQualifiedTypeName name="javax.swing.RootPaneContainer"/>
     <fullyQualifiedTypeName name="study2.MemberVo"/>
+    <fullyQualifiedTypeName name="com.study.Class_Test001"/>
+    <fullyQualifiedTypeName name="com.study.Method_Test"/>
+    <fullyQualifiedTypeName name="com.study.Person"/>
 </qualifiedTypeNameHistroy>

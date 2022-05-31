@@ -48,9 +48,7 @@ class Rect{ // 사각형에 대한 클래스
 		// 매개변수와 인자값의 차이는? 변수이냐 값이냐의 차이 
 		// 매개변수는 -  메소드의 값을 저장할 수 있는 변수 실행할때 쓰이는 값 변수 저장공간  a = area():
 		// 인자 값은 -  메소드를 호출할때 Print(a) - a가 인자값 b= length();
-		/* 매개 변수를 통해 넘겨 받음 (갖고 있지 않는 데이터 )
-		 * 
-		 */
+		/* 매개 변수를 통해 넘겨 받음 (갖고 있지 않는 데이터 ) */
 		System.out.println("가로 :"+w);
 		System.out.println("세로 :"+h);
 		System.out.println("넓이:"+a);
@@ -59,15 +57,12 @@ class Rect{ // 사각형에 대한 클래스
 	}
 // 실행 클래스 
 public class Method_TestEx {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		Rect r = new Rect(); // 객체 생성
 		r.input(); // 메소드 호출 
 		int a = r.area(); // 넓이 계산 결과를 리턴 한다. 
 		int b = r.length(); // 둘레를 계산한 결과를 리턴 받는다. 
 		r.print(a, b); // 매개변수 2개 
 	}
-
 }
