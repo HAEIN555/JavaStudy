@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="study.AAA"/>
     <fullyQualifiedTypeName name="study.book"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="study.Rectangle"/>
     <fullyQualifiedTypeName name="classsss.Class"/>
     <fullyQualifiedTypeName name="study2.ClassExam"/>
@@ -13,7 +12,6 @@
     <fullyQualifiedTypeName name="study.A_class"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="study.Super"/>
     <fullyQualifiedTypeName name="study.CircleEX"/>
@@ -42,4 +40,18 @@
     <fullyQualifiedTypeName name="com.study.Class_Test001"/>
     <fullyQualifiedTypeName name="com.study.Method_Test"/>
     <fullyQualifiedTypeName name="com.study.Person"/>
+    <fullyQualifiedTypeName name="com.study.Member"/>
+    <fullyQualifiedTypeName name="com.inherit.Parent"/>
+    <fullyQualifiedTypeName name="com.inherit.Child"/>
+    <fullyQualifiedTypeName name="com.inherit.Subsub"/>
+    <fullyQualifiedTypeName name="com.study.OverridingParent"/>
+    <fullyQualifiedTypeName name="com.study.OverridingChild"/>
+    <fullyQualifiedTypeName name="com.inherit.OverridingParent2"/>
+    <fullyQualifiedTypeName name="com.inherit.OverridingChild2"/>
+    <fullyQualifiedTypeName name="com.inherit.Sales"/>
+    <fullyQualifiedTypeName name="q.B"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

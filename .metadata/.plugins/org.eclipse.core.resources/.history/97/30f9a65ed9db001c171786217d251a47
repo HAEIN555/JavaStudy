@@ -1,5 +1,0 @@
-package study2;
-
-public abstract class AbsEX02 extends AbsEX01 {
- //  추상클래스간의 상속은 재정의 해도 되고 아니여도 되고 !
-}

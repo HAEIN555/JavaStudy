@@ -1,11 +1,9 @@
 package com.inherit;
-
 	class House{
 	int price; // 멤버 변수 선언! 
 	int size;
 	String dong;
 	String kind; // 아파트인지 빌라인지 
-	
 	public House() {
 		// 누구를 호출할 것인가 
 		this(100,32,"상계동","아파트");
@@ -25,7 +23,6 @@ package com.inherit;
 		this.size= size;
 		this.dong=dong;
 		this.kind=kind;
-		
 	}// 오버로딩
 	
 }
