@@ -1,7 +1,5 @@
 package com.except;
-
 public class Except02 {
-
 	public static void main(String[] args){
 		// TODO Auto-generated method stub
 		
@@ -27,7 +25,6 @@ public class Except02 {
 			//exception이 발생할때에만 사용 가능하다 
 			System.out.println(5);
 			}
-				
 		System.out.println(6);
 		
 	}

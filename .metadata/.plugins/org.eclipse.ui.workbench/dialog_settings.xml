@@ -21,6 +21,8 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\자바파일\0603까지.zip"/>
+			<item value="E:\자바파일\0602까지.zip"/>
 			<item value="E:\11.zip"/>
 			<item value="C:\Users\USER\Desktop\20220531 수업 백업.zip"/>
 			<item value="C:\Users\USER\Desktop\20220530 수업 백업.zip"/>
