@@ -1,15 +1,10 @@
 package com.arrayEx;
-
 import java.io.IOException;
-
 public class ScoreMain {
-
 	public static void main(String[] args) {
 		char ch;
-		
 		// 인터페이스 다형성 
 		Score score = new ScoreImpl();
-		
 		try {
 		while(true) {
 			
@@ -34,7 +29,6 @@ public class ScoreMain {
 		
 				}catch(IOException ii) {
 					ii.printStackTrace();} // try catch 문 끝
-
 	}
 
 }
