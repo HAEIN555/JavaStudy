@@ -6,7 +6,6 @@ public class VectorEx03 {
 	private static final String colors[] = {
 			"검정","노랑","녹색","파랑","주황색","연두색","보라색"
 	};
-	
 	public static void main(String[] args) {
 		
 		Vector<String> v = new Vector<String>();

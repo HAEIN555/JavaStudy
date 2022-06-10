@@ -15,8 +15,6 @@ public class ScoreMain {
 	
 	//인터페이스의 다형성 
 	Score score = new ScoreImpl();
-	
-	
 	try {
 		while(true) {
 	
@@ -34,14 +32,10 @@ public class ScoreMain {
 		case '5' : score.searchHak(); break;
 		case '6' : score.searchName(); break;
 		case '7' : System.exit(0);
-		
-		
+			}
 		}
-	
-	}
 	}catch(IOException ii) {
 		ii.printStackTrace();
+		}
 	}
-	}
-
 }

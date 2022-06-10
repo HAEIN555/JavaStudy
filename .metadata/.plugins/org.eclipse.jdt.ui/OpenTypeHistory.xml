@@ -8,4 +8,6 @@
     <typeInfo handle="=DAY 0526/C:\/Devtool\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.util.concurrent(Flow$Subscriber.class[Subscriber" modifiers="1545" timestamp="1649638348000"/>
     <typeInfo handle="=DAY0530/C:\/Devtool\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.desktop=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;javax.swing(Action.class[Action" modifiers="1537" timestamp="1649638348000"/>
     <typeInfo handle="=DAY0607/src&lt;com.arrayEx{Score.java[Score" modifiers="513" timestamp="1654567124434"/>
+    <typeInfo handle="=DAY0608/src&lt;com.mapex.mscore{Score.java[Score" modifiers="513" timestamp="1654743770718"/>
+    <typeInfo handle="=DAY0608/src&lt;com.arrayex{Score.java[Score" modifiers="513" timestamp="1654567146000"/>
 </typeInfoHistroy>

@@ -15,8 +15,6 @@ public BoardVO(String register , String subject ,String email, String content ,S
 	this.content = content ;
 	this.passwd = passwd ;
 }
-
-
 	public String getRegister() {
 	return register;
 }

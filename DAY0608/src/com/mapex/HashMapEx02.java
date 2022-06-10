@@ -1,20 +1,13 @@
 package com.mapex;
-
 import java.util.*;
-
 public class HashMapEx02 {
-
-	
 	public static void main(String[] args) {
-		
 		HashMap<String,Integer> map = new HashMap<String,Integer>();
-		
 		//new 뒤에 <String,Integer>은 생략 가능하다 
 		map.put("홍길동",90);
 		map.put("이순신", 100);
 		map.put("이기자",60);
 		map.put("빅자바",50);
-		
 		// key 값만 따로 뽑으면 String 값이 나온다. 
 		Set<Map.Entry<String, Integer>>set1 = map.entrySet();
 		Iterator<Map.Entry<String, Integer>> it1 = set1.iterator();
