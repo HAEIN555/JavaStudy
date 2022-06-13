@@ -14,7 +14,6 @@ public enum City {
 	public String getCityName() {
 		return cityName;
 	}
-
 	public int getIngu() {
 		return ingu;
 	}

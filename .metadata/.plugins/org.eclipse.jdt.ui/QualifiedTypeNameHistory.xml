@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="study.AbstractBicycle"/>
-    <fullyQualifiedTypeName name="study.Diagram"/>
-    <fullyQualifiedTypeName name="study.Triangle"/>
-    <fullyQualifiedTypeName name="study2.AbsEX01"/>
-    <fullyQualifiedTypeName name="com.sta.Unit"/>
-    <fullyQualifiedTypeName name="com.sta.Marine"/>
-    <fullyQualifiedTypeName name="com.inter.InterEX"/>
-    <fullyQualifiedTypeName name="HW.Instument"/>
-    <fullyQualifiedTypeName name="study2.OuterEX.InnerEX"/>
-    <fullyQualifiedTypeName name="study2.MemberInner.Inner"/>
     <fullyQualifiedTypeName name="study.StaticInner"/>
     <fullyQualifiedTypeName name="study.StaticInner.Inner"/>
     <fullyQualifiedTypeName name="study.OuterEx01"/>
@@ -38,16 +28,11 @@
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="study.LinkedListEx"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="com.mapex.HashTableEx"/>
     <fullyQualifiedTypeName name="java.util.Hashtable"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.BranchElement"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -59,5 +44,20 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.enumex.EnumEx01"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="treemapex.SungRec"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="treemapex.TreeMapEX02"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.utilEx.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.StringJoiner"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>

@@ -24,5 +24,4 @@ public class TreeMapEX02 {
 					key,data.getName(),data.getKor(),data.getEng(),data.getMat(),data.getTot());
 		}
 	}
-
 }
