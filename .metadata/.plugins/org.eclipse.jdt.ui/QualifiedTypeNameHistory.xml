@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="study.StaticInner"/>
-    <fullyQualifiedTypeName name="study.StaticInner.Inner"/>
-    <fullyQualifiedTypeName name="study.OuterEx01"/>
-    <fullyQualifiedTypeName name="study.OuterEx01.InnerEx01"/>
-    <fullyQualifiedTypeName name="javax.swing.RootPaneContainer"/>
-    <fullyQualifiedTypeName name="study2.MemberVo"/>
-    <fullyQualifiedTypeName name="com.study.Class_Test001"/>
-    <fullyQualifiedTypeName name="com.study.Method_Test"/>
-    <fullyQualifiedTypeName name="com.study.Person"/>
-    <fullyQualifiedTypeName name="com.study.Member"/>
-    <fullyQualifiedTypeName name="com.inherit.Parent"/>
-    <fullyQualifiedTypeName name="com.inherit.Child"/>
     <fullyQualifiedTypeName name="com.inherit.Subsub"/>
     <fullyQualifiedTypeName name="com.study.OverridingParent"/>
     <fullyQualifiedTypeName name="com.study.OverridingChild"/>
@@ -43,21 +31,33 @@
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.enumex.EnumEx01"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="treemapex.SungRec"/>
     <fullyQualifiedTypeName name="java.util.TreeMap"/>
     <fullyQualifiedTypeName name="treemapex.TreeMapEX02"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="com.utilEx.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="java.util.StringJoiner"/>
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="study.DataOutputStreamEx"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="study.BufferedWriterEx"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 </qualifiedTypeNameHistroy>

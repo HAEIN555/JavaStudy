@@ -34,6 +34,29 @@ public class CalendarEX01 {
 		case 7:week="토요일";break;
 		}
 		System.out.println(y+"-"+m+"-"+d+"-"+week);
-	}
+		
+		// 현재 날짜에 1000일을 더하면??
+		now.add(Calendar.DATE,1000);
+		System.out.printf("%tF%n",now);
+		
+		//2023.6.15
+		// 날짜를 바꾼다는 것은 set 이라는 메소드 활용 
+		now.set(2023,	 6-1, 15); // 월의 6-1을 한 이유는 인덱스 값이기때문에 6번째 인 값인 5를 넣어주야한다!
+		// 0부터 시작하니까!!!
+		System.out.printf("%tF%n",now);
+		
+		// 날짜만 바꾸어 보자! 날짜만 지정해서 출력
+		now.set(Calendar.DATE, 10);
+		System.out.printf("%tF%n",now);
+		
+		//2022.06.32 -->2022.07.02로 나타난다
+		now.set(2022, 6-1, 32);
+		System.out.printf("%tF%n",now);
+		
+		//해당하는 달의 마지막을 max를 통해서 알 수 있다.
+		int dd = now.getActualMaximum(Calendar.DATE);
+		System.out.print("해당월의 마지막 날짜 :"+dd);
+		
+		}
 
 }
