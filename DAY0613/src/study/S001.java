@@ -14,14 +14,11 @@ public class S001 {
 	 *   stack 은 선입 후출하는 거!
 	 */
 	public static void main(String[] args) {
-		
 		// 랜덤 객체 생성
 		Random r = new Random();
 		// 스택 객체 생성
 		Stack st = new Stack<>();
-		
 		int nNum, i; // 랜덤으로 생성된 정수를 저장하는 변수 
-		
 		// 스택에 저장 10개의 생성된 랜덤수를 스택에 저장!
 		System.out.print("스택에 저장되는 수  :");
 		for(i=0;i<10;i++) {

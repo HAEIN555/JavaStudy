@@ -5,7 +5,6 @@ public class ObjectInputStreamEx {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ObjectInputStream ois = null;
-		
 		try {
 			// 파일에 저장된 객체를 읽어오기 위해서 ObjectInputStream 객체 생성
 			ois = new ObjectInputStream(new FileInputStream("c:/ppp/obj.txt"));
@@ -32,5 +31,4 @@ public class ObjectInputStreamEx {
 			try {if(ois!=null)ois.close();} catch (IOException e) {}
 		}
 	}
-
 }
