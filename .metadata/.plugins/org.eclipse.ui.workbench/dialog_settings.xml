@@ -21,6 +21,16 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\USER\Desktop\월요일2.zip"/>
+			<item value="C:\Users\USER\Desktop\월요일.zip"/>
+			<item value="E:\자바파일\0705까지 백업.zip"/>
+			<item value="C:\Users\USER\Desktop\백업\0705까지 백업.zip"/>
+			<item value="C:\Users\USER\Desktop\백업\vak.zip"/>
+			<item value="C:\Users\USER\Desktop\백업\backulp.zip"/>
+			<item value="C:\Users\USER\Desktop\백업\ㄹㅇㄴㄹㅇ.zip"/>
+			<item value="E:\자바파일\0701.zip"/>
+			<item value="E:\자바파일\6-16.zip"/>
+			<item value="E:\자바파일\0616까지 자바파일.zip"/>
 			<item value="E:\자바파일\0610.zip"/>
 			<item value="E:\자바파일\0603까지.zip"/>
 			<item value="E:\자바파일\0602까지.zip"/>
@@ -31,10 +41,6 @@
 			<item value="E:\자바파일\0523-0524.zip"/>
 			<item value="E:\자바파일\0520까지 수업.zip"/>
 			<item value="E:\자바파일\0520.zip"/>
-			<item value="E:\자바파일\0519.zip"/>
-			<item value="E:\자바파일\518.zip"/>
-			<item value="E:\자바파일\0517.zip"/>
-			<item value="E:\자바파일\0516.zip"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
@@ -49,6 +55,12 @@
 		<list key="columns">
 			<item value="252"/>
 			<item value="506"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.file"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 </section>

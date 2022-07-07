@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.inherit.Subsub"/>
-    <fullyQualifiedTypeName name="com.study.OverridingParent"/>
-    <fullyQualifiedTypeName name="com.study.OverridingChild"/>
-    <fullyQualifiedTypeName name="com.inherit.OverridingParent2"/>
-    <fullyQualifiedTypeName name="com.inherit.OverridingChild2"/>
-    <fullyQualifiedTypeName name="com.inherit.Sales"/>
-    <fullyQualifiedTypeName name="q.B"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="com.except2.SpaceException"/>
-    <fullyQualifiedTypeName name="com.except2.MemoryException"/>
-    <fullyQualifiedTypeName name="com.except2.InstallException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="com.except3.Myexception"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="study.LinkedListEx"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
@@ -46,7 +31,6 @@
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="study.DataOutputStreamEx"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
@@ -54,10 +38,26 @@
     <fullyQualifiedTypeName name="study.BufferedWriterEx"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.thread.ThreadEx01"/>
+    <fullyQualifiedTypeName name="com.thread.ThreadEx02"/>
+    <fullyQualifiedTypeName name="com.thread.MyThread"/>
+    <fullyQualifiedTypeName name="com.thread.ThreadEx03"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.syncex.ATM"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="com.dbex.connUtil"/>
+    <fullyQualifiedTypeName name="oracle.jdbc.driver.OracleSQLException"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.awtex.Winevernt"/>
+    <fullyQualifiedTypeName name="com.awtex.LabelEx"/>
+    <fullyQualifiedTypeName name="com.awtex.ButtonEx"/>
 </qualifiedTypeNameHistroy>
