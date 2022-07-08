@@ -51,8 +51,7 @@ public class HorseMain  extends JFrame implements Runnable {
 				setVisible(true);
 				
 				makeThread();
-				
-				
+	
 	}
 	@Override
 	public void run() {
