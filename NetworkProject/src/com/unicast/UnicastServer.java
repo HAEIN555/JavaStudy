@@ -33,7 +33,6 @@ public class UnicastServer {
 			// TODO: handle exception
 				ii.printStackTrace();
 		}
-		
 	}// 생성자를 꾸며서 메인을 간단히 만든다.
 	
 	public static void main(String[] args) {
