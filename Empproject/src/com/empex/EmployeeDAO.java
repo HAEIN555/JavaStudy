@@ -15,7 +15,7 @@ public class EmployeeDAO {
       
    //신규 사원 정보등록 쿼리문 작성
     String dml = "insert into employee(no,name,jobGrade,department,email)"
-    		+ "values(employee_seq.nextval, ?,?,?,?)";
+    		+ "values(employee_seq.nextval,?,?,?,?)";
       
       Connection con = null;
       PreparedStatement pstmt = null;
@@ -160,7 +160,7 @@ public class EmployeeDAO {
           
           //입력받은 사용자 정보를 처리하기 위한 sql문 생성 
           pstmt = con.prepareStatement(dml);
-          pstmt.setString(2, name);
+          pstmt.setString(1, name);
           
           rs = pstmt.executeQuery();
           if(rs.next()) {
@@ -226,7 +226,7 @@ public class EmployeeDAO {
    }
    
    //전체 사원 목록 조회
-   public ArrayList<String>getColumn(){
+   public ArrayList<String>getColumnName(){
 	   
 	   ArrayList<String> columnName = new ArrayList<String>();
 	   String dml = "select * from employee ";
